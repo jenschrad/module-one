@@ -1,0 +1,7 @@
+bug report 5
+
+---
+initial run - no errors but logic and formatting off
+
+---
+fixed issues with formatting and changed step to 2 instead of 3

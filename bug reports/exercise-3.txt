@@ -1,0 +1,7 @@
+bug report 3
+
+---
+initial run - all works, but logic incorrect, issue with 1st else if
+
+---
+problem fixed by changing order

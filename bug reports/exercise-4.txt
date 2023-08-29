@@ -1,0 +1,9 @@
+bug report 4
+
+---
+
+initial run - no errors, but formatting off
+
+---
+
+fixed issue with formatting

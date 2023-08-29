@@ -1,0 +1,7 @@
+bug report - exercise 2.3 
+
+initial run - no problems compiling program but math is off bc i put the 3.048 instead of 0.3048
+
+run 2 - no problems compiling but math still off because i need to multiply instead of divide
+
+run 3 - all good
